@@ -1,12 +1,12 @@
 # Site setings
-name: 'Royce'
-description: 'Web Developer'
-meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
+name: 'George'
+description: 'PhD Student'
+meta_description: 'Wildlife, Conservation, Genomics'
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'authorimage.jpg'
-  greetings: "Hi there! My name is NAME. This website is currently under development. Please excuse the mess."
+  greetings: "Hi there! My name is George. This website is currently under development. Please excuse the mess."
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: https://royce.netlify.com/
@@ -21,17 +21,17 @@ contact_page_description: "Horace theme comes with a contact form built-in. You 
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
-twitter: 'justgoodthemes'
-facebook: 'username'
-github: 'justgoodthemes'
-codepen: 'username'
-dribbble: 'username'
-medium: '@username'
-instagram: 'username'
-pinterest: 'username'
-linkedin: 'username'
-producthunt: '@username'
-quora: 'username'
+twitter: 'georgeomics'
+#facebook: 'username'
+github: 'georgeomics'
+#codepen: 'username'
+#dribbble: 'username'
+#medium: '@username'
+instagram: 'georgeomics'
+#pinterest: 'username'
+linkedin: 'georgezaragoza'
+#producthunt: '@username'
+#quora: 'username'
 
 # Navigation
 navigation:
