@@ -33,6 +33,7 @@ linkedin: 'georgezaragoza'
 #producthunt: '@username'
 #quora: 'username'
 
+
 # Navigation
 navigation:
   - text: Home
@@ -41,10 +42,20 @@ navigation:
     url: /about
   - text: Style Guide
     url: /style-guide
+  - text: Science
+    url: /science
+  - text: Conscience
+    url: /conscience
   - text: Contact Me
     url: /contact
   - text: Search
     url: /search
+    
+# The site navigation can be found in the **_config.yml** file. To add a page to the site navigation simply add your new page in the markdown format (e.g. newpage.md) in the theme root folder. Next edit your navigation menu located in **_config.yml** file on line 37. To add a new item to the navigation you have to add the item name and url. For example:
+#~~~~
+#navigation:
+#- text: New Page
+#url: /newpage/
 
 # Required Plugins
 plugins_dir:
@@ -53,7 +64,7 @@ plugins_dir:
   - jekyll-sitemap
 
 # Pagination
-paginate: 5
+paginate: 7
 paginate_path: /page:num/
 
 # Permalinks
