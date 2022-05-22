@@ -11,7 +11,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: https://royce.netlify.com/
 #disqus: 'justgoodthemes'
-mailchimp_url: 'http://eepurl.com/h2oERL'
+#mailchimp_url:
 # Add your GA Tracking Id
 ga_analytics: 
 
