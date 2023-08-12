@@ -2,9 +2,9 @@
 layout: post
 title: 'Learning JavaScript Design Patterns'
 tags: [JavaScript, Tips]
-featured_image_thumbnail:
-featured_image: assets/images/posts/2019/patterns.jpeg
-featured: true
+featured_image_thumbnail: assets/images/posts/2019/patterns.jpeg
+featured_image: 
+featured: false
 hidden: true
 ---
 

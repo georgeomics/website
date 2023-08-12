@@ -2,9 +2,9 @@
 layout: post
 title: 'Choosing the Best Front-end Framework'
 tags: [JavaScript, Tips]
-featured_image_thumbnail:
-featured_image: assets/images/posts/2019/desk.jpg
-featured: true
+featured_image_thumbnail: assets/images/posts/2019/desk.jpg
+featured_image: 
+featured: false
 hidden: true
 ---
 
