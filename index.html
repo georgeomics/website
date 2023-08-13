@@ -2,27 +2,11 @@
 layout: default
 title: Home
 ---
+
 <main id="main" class="site-main">
 
-<!-- getting rid of greetings for now:  
-{% if page.url == "/" %}
-<div class="hero inner">
-    <p class="hero-text">{{ site.author.greetings }}</p>
-</div>        
-{% endif %}
--->
-
-{% if page.url == "/" %}
-<!-- Featured-->
-<div id="featured-posts" class="featured-posts">
-    {% for post in site.posts %}
-    {% if post.featured == true %}
-    {% include featuredbox.html %}
-    {% endif %}
-    {% endfor %}
-</div>
-
-{% endif%}
+<!-- About -->
+{% include about.html %}
 
 <!-- Posts Index -->
 <div class="post-feed inner">
@@ -34,12 +18,6 @@ title: Home
             {% include postbox.html %}
         {% endfor %}
     </div>
-</div>
-<!-- Pagination-->
-{% include pagination.html %}
-{% if site.mailchimp_url %}
-    {% include newsletter-box.html %}
-{% endif %}
+  </div>
+  
 </main>
-
-

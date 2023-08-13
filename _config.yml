@@ -5,10 +5,10 @@ meta_description: 'Wildlife, Conservation, Genomics'
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
-  image: 'authorimage.jpg'
+  image: 'George-UCF-2023.jpg'
   greetings: 
 favicon: 'assets/images/favicon.ico'
-baseurl: 
+baseurl:
 production_url: https://royce.netlify.com/
 #disqus: 'justgoodthemes'
 #mailchimp_url: # note: keep commented out otherwise a subscribe box will appear on the bottom of each page
@@ -21,7 +21,7 @@ contact_page_description: #"Horace theme comes with a contact form built-in. You
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
-twitter: 'georgeomics'
+#twitter: 'georgeomics'
 #facebook: 'username'
 github: 'georgeomics'
 #codepen: 'username'
@@ -36,10 +36,10 @@ linkedin: 'georgezaragoza'
 
 # Navigation
 navigation:
-  - text: Home
-    url: /
+  #- text: Home
+  #  url: /
   - text: About
-    url: /about
+    url: /
  #- text: Style Guide
   # url: /style-guide
   - text: Science
