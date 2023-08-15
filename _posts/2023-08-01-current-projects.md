@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Current Projects"
-tags: [ Projects, Wildlife, Genetics ]
+tags: [ Projects, Wildlife, Conservation, Genetics ]
 hidden: false
 ---
 
@@ -20,6 +20,6 @@ hidden: false
 #### Landscape Genomics of Terrestrial Vertebrates in the Greater Everglades 
 <div style="display: flex; align-items: flex-start;">
     <img src="assets/images/posts/2023/panther-statue.jpg" alt="Landscape Genomics of Terrestrial Vertebrates in the Greater Everglades" style="margin-right: 10px; width: 150px;">
-    I am collaborating with the Florida Fish and Wildlife Conservation Commission to generate whole genome sequencing data for Puma concolor and Odocoileus virginianus. Our focus is on understanding their interactions with the environment and how this might relate to their adaptability under changing climatic conditions.
+    I am collaborating with the Florida Fish and Wildlife Conservation Commission to generate whole genome sequencing data for Florida panthers (Puma concolor coryi) and white-tailed deer (Odocoileus virginianus). Our focus is on understanding their interactions with the environment and how this might relate to their adaptability under changing climatic conditions.
 </div>
 
