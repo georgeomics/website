@@ -8,7 +8,7 @@ hidden: false
 #### Landscape Genetics of Puma Concolor
 <div style="display: flex; align-items: flex-start;">
     <img src="assets/images/posts/2023/panther-crossing-sign.jpg" alt="Landscape Genetics" style="margin-right: 10px; width: 150px;">
-    I am using data from genetic markers to determine how Mountain Lion (Puma concolor) population structure, migration, and genetic variation have been affected by anthropogenic development, particularly in the southwestern US.
+    I am using data from genetic markers to predict how anthropogenic and evironmental landscape barriers have affected the population genetic structure of Pumas (Puma concolor).
 </div>
 
 #### Comparative and Evolutionary Genomics
