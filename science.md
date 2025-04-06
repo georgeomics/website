@@ -8,11 +8,13 @@ featured_image:
 ## Current Projects
 ---
 ### Landscape Genetics of Puma Concolor
-<div style="display: flex; align-items: flex-start;">
-    <img src="assets/images/posts/2023/panther-crossing-sign.jpg" alt="Landscape Genetics" style="margin-right: 15px; width: 300px;">
-<p>
-    Vehicle collisions are consistently one of the leading causes of mortality for many species of wildlife. Large mammals are especially vulnerable as large home range sizes may conflict with urban sprawl and the establishment of transportation infrastructure. I am currently investigating how anthropogenic and evironmental landscape barriers have affected the population genetic structure of Pumas (<em>Puma concolor</em>) in Arizona, leveraging landscape genetic data and Bayesian ecological modeling to aid in identifying where wildlife corridors may be most effective.
-</p>
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; align-items: flex-start;">
+    <img src="assets/images/posts/2023/panther-crossing-sign.jpg" alt="Landscape Genetics" style="margin-right: 15px; width: 300px; max-width: 100%; flex-shrink: 0;">
+    <div style="flex: 1; min-width: 250px;">
+        <p>
+        Vehicle collisions are consistently one of the leading causes of mortality for many species of wildlife. Large mammals are especially vulnerable as large home range sizes may conflict with urban sprawl and the establishment of transportation infrastructure. I am currently investigating how anthropogenic and evironmental landscape barriers have affected the population genetic structure of Pumas (<em>Puma concolor</em>) in Arizona, leveraging landscape genetic data and Bayesian ecological modeling to aid in identifying where wildlife corridors may be most effective.
+        </p>
+    </div>
 </div>
 
 ### Comparative and Evolutionary Genomics
