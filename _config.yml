@@ -1,6 +1,6 @@
 # Site setings
 name: 'George Zaragoza'
-description: 'PhD Student'
+description: 'PhD Candidate'
 meta_description: 'Wildlife, Conservation, Genomics'
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
@@ -46,6 +46,8 @@ navigation:
     url: /science
   - text: Conscience
     url: /conscience
+  - text: Teaching
+    url: /teaching
   - text: Contact Me
     url: /contact
   - text: Search

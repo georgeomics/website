@@ -5,7 +5,7 @@ featured_image:
 featured: false
 ---
 
-Hi, I'm George. I'm a PhD student at the University of Central Florida studying wildlife conservation, ecology, and genomics. Broadly, my research questions focus on how human-wildlife relationships have shaped the evolution of interspecies communities, and what that implies for the adaptability and resilience of these communities in the future. Currently, my projects include research on white-tailed deer, Florida panthers, and Florida key deer.
+Hi, I'm George. I'm a PhD candidate at the University of Central Florida studying wildlife conservation, ecology, and genomics. Broadly, my research questions focus on how human-wildlife relationships have shaped the evolution of interspecies communities, and what that implies for the adaptability and resilience of these communities in the future. Currently, my projects include research on white-tailed deer, Florida panthers, and Florida key deer.
 
 To answer these questions, I use a variety of tools including population genomics, landscape genomics, Geographic Information Systems (GIS), ecological models, bioinformatics, advanced statistical methods, and also consider human dimensions. By combining these approaches, I aim to gain a comprehensive understanding of the complex interactions between species, the environment, and human influences. My goal is to contribute valuable insights to the field of wildlife conservation and promote stewardship between humans and the natural world.
 
