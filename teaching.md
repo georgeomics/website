@@ -16,7 +16,7 @@ An upper level undergraduate course focused on the generation and analysis of ge
 #### PCB3063L: Genetics Laboratory (1 Credit)
 *Semesters Taught: Spring 2024, Spring 2023, Fall 2022, Fall 2021*  
 [Syllabus](assets/documents/PCB3063L_Syllabus_SP2024.pdf)  
-Laboratory course focused on introducing undergraduates to concepts and methods in molecular and genetic laboratory work. Included multi-week projects to allow students to build upon key genetic concepts in a hands-on manner followed by a written report.
+Course focused on introducing undergraduates to concepts and methods in molecular and genetic laboratory work through lectures and laboratories. Included multi-week projects to allow students to build upon key genetic concepts in a hands-on manner followed by a written report.
 
 ---
 ## Teaching Assistant Roles
