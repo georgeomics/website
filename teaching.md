@@ -22,7 +22,7 @@ Course focused on introducing undergraduates to concepts and methods in molecula
 ## Teaching Assistant Roles
 ---
 #### PCB6466: Statistical Methods in Experimental Ecology (Graduate)
-*Semesters TA'd: Spring 2025*
+*Semesters TA'd: Spring 2025, Spring 2026*
 
 #### BSC4445C: Genomics Laboratory
 *Semesters TA'd: Fall 2023, Spring 2022*

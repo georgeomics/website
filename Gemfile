@@ -15,3 +15,5 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
 end
 
+
+gem "logger", "= 1.6.6"
