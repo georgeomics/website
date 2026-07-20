@@ -11,7 +11,7 @@ featured_image:
 #### BSC4445C: Genomics Laboratory (4 Credits)
 *Semesters Taught: Fall 2024*  
 [Syllabus](assets/documents/BSC4445C_RI_Syllabus_FA2024.pdf)  
-An upper level undergraduate course focused on the generation and analysis of genomic data. I developed a novel research project specifically for the course, which served as the focus for all molecular and bioinfomatic work. Students were guided through a variety of laboratory methods in genomics including DNA extraction, PCR, and Illumina library preparation, followed by bioinformatic analysis using command line tools and software such as QIIME2 and Geneious. As a university designmated research intensive (RI) course, students completed a comprehensive project while generating and analyzing genetic datasets, culminating in oral and written reports. A publication resulting from this class is currently under review.
+An upper level undergraduate course focused on the generation and analysis of genomic data. I developed a novel research project specifically for the course, which served as the focus for all molecular and bioinfomatic work. Students were guided through a variety of laboratory methods in genomics including DNA extraction, PCR, and Illumina library preparation, followed by bioinformatic analysis using command line tools and software such as QIIME2 and Geneious. As a university designated research intensive (RI) course, students completed a comprehensive project while generating and analyzing genetic datasets, culminating in oral and written reports. A publication resulting from this class is currently under review.
 
 #### PCB3063L: Genetics Laboratory (1 Credit)
 *Semesters Taught: Spring 2024, Spring 2023, Fall 2022, Fall 2021*  
