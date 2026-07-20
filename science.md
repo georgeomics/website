@@ -52,7 +52,7 @@ featured_image:
     <img src="assets/images/pages/bacteria.jpg" alt="The Effect of Urban Environments on Bacterial Diversity in White-tailed Deer" style="margin-right: 15px; width: 300px; max-width: 100%; flex-shrink: 0;">
     <div style="flex: 1; min-width: 250px;">
         <p>
-        Populations of species living in urban environments often show differences in bacterial diversity compared with their non-urban counterparts. These changes in the microbiome can have various physiological and behavioral consequences. This project, developed through a research-intensive genomics laboratory course I led at the University of Central Florida, examined differences in bacterial species diversity and richness between white-tailed deer harvested in urban and non-urban environments. A publication resulting from the course and project is currently under review.
+        Populations of species living in urban environments often show differences in bacterial diversity compared with their non-urban counterparts. These changes in the microbiome can have various physiological and behavioral consequences. This project, developed through a research-intensive undergraduate genomics laboratory course I led at the University of Central Florida, examined differences in bacterial species diversity and richness between white-tailed deer harvested in urban and non-urban environments. A publication resulting from the course and project is currently under review.
         </p>
     </div>
 </div>
